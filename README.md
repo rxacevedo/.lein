@@ -1,2 +1,2 @@
-# dot_lein
+# .lein
 My .lein directory, for linking with dotfiles repo as a submodule.

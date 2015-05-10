@@ -1,5 +1,4 @@
-{:user {:local-repo "/home/roberto/.m2/repository/"        
-        :search-page-size 10
+{:user {:search-page-size 10
         :plugins [[cider/cider-nrepl "0.9.0-SNAPSHOT"]
                   [lein-exec "0.3.4]"
         :dependencies [[clj-http "1.1.2"]

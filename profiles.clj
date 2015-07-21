@@ -7,6 +7,7 @@
         :dependencies [[clj-http "1.1.0"]
                        [hickory "0.5.4"]
                        [slamhound "1.5.5"]
-                       [com.cemerick/pomegranate "0.3.0"]]}
+                       [com.cemerick/pomegranate "0.3.0"]
+                       [org.clojure/tools.nrepl "0.2.7"]]}
  :analysis {:dependencies [[incanter "1.5.6"]]}
  :scraping {:dependencies [[com.github.kyleburton/clj-xpath "1.4.4"]]}}
